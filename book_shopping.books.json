@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "65edfeac3ff7da4f49a7e86c"
+  },
+  "product_id": "P001",
+  "name": "Harry Potter and the Sorcerer's Stone",
+  "author": "J.K. Rowling",
+  "pages": 309,
+  "genres": [
+    "Fantasy",
+    "Adventure"
+  ],
+  "price": 9.99,
+  "stock": 100
+},
+{
+  "_id": {
+    "$oid": "65edfeac3ff7da4f49a7e86d"
+  },
+  "product_id": "P002",
+  "name": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "pages": 281,
+  "genres": [
+    "Classic",
+    "Coming-of-Age"
+  ],
+  "price": 8.99,
+  "stock": 50
+},
+{
+  "_id": {
+    "$oid": "65edfeac3ff7da4f49a7e86e"
+  },
+  "product_id": "P003",
+  "name": "1984",
+  "author": "George Orwell",
+  "pages": 328,
+  "genres": [
+    "Dystopian",
+    "Political Fiction"
+  ],
+  "price": 10.99,
+  "stock": 75
+},
+{
+  "_id": {
+    "$oid": "65edfeac3ff7da4f49a7e86f"
+  },
+  "product_id": "P004",
+  "name": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "pages": 279,
+  "genres": [
+    "Romance",
+    "Classic"
+  ],
+  "price": 7.99,
+  "stock": 80
+},
+{
+  "_id": {
+    "$oid": "65edfeac3ff7da4f49a7e870"
+  },
+  "product_id": "P005",
+  "name": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "pages": 180,
+  "genres": [
+    "Classic",
+    "Tragedy"
+  ],
+  "price": 6.99,
+  "stock": 60
+}]

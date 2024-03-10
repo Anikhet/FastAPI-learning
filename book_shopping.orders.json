@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "65ee0f51bc298b91196245fa"
+  },
+  "product_id": "P003",
+  "quantity": 2,
+  "account": "A002"
+}]

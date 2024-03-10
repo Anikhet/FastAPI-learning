@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65edfe3d3ff7da4f49a7e865"
+  },
+  "account_id": "A001",
+  "user_id": "U001",
+  "credit_line": 1000
+},
+{
+  "_id": {
+    "$oid": "65edfe3d3ff7da4f49a7e866"
+  },
+  "account_id": "A002",
+  "user_id": "U002",
+  "credit_line": 1500
+},
+{
+  "_id": {
+    "$oid": "65edfe3d3ff7da4f49a7e867"
+  },
+  "account_id": "A003",
+  "user_id": "U003",
+  "credit_line": 500
+},
+{
+  "_id": {
+    "$oid": "65edfe3d3ff7da4f49a7e868"
+  },
+  "account_id": "A004",
+  "user_id": "U004",
+  "credit_line": 2000
+},
+{
+  "_id": {
+    "$oid": "65edfe3d3ff7da4f49a7e869"
+  },
+  "account_id": "A005",
+  "user_id": "U005",
+  "credit_line": 750
+}]
